@@ -22,7 +22,7 @@ initiatives for all student demographics within the Bronx and beyond.
 higher than the proportion of shared PE teachers with another school. This finding
 suggests that elementary schools tend to allocate a greater portion of their teaching
 staff to full-time positions dedicated to physical education instruction.
-# Improvemnt
+# Improvement
 By prioritizing resource allocation and staffing decisions based on utilization patterns
 and student needs, the Department of Education can work towards improving the
 overall quality and effectiveness of physical education programs across the city.
